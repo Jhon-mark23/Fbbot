@@ -1,6 +1,6 @@
 {
   "PAGE_ACCESS_TOKEN": "",
-  "VERIFY_TOKEN": "WEBHOOK",
+  "VERIFY_TOKEN": "magic",
   "ADMINS": [
     ""
   ],
@@ -8,7 +8,7 @@
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Your Name hi",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
